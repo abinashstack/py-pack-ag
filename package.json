@@ -1,0 +1,19 @@
+{
+  "name": "py-pack-ag",
+  "version": "1.0.0",
+  "description": "a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abinashstack/py-pack-ag.git"
+  },
+  "author": "ABINASH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinashstack/py-pack-ag/issues"
+  },
+  "homepage": "https://github.com/abinashstack/py-pack-ag#readme"
+}
